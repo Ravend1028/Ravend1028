@@ -6,7 +6,7 @@ Completed **4 internships during college** and secured a **full-time role immedi
 ---
 
 <p align="center">
-  <img src="EM.jpg" width="800" />
+  <img src="EM.jpg" width="400" height="400" />
 </p>
 
 ---
